@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Travel Assist</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="changeColor">Color Options</string>
+    <string name="white">Option 1</string>
+    <string name="yellow">Option 2</string>
+    <string name="green">Option 3</string>
+    <string name="blue">Option 4</string>
+    <string name="pink">Option 5</string>
+    <string name="confirm">Confirm</string>
+    <string name="toMain">Main</string>
+    <string name="reset">Reset</string>
+
+    <string-array name="translateFrom">
+        <item name="english">English</item>
+        <item name="chinese">Chinese</item>
+        <item name="japanese">Japanese</item>
+        <item name="korean">Korean</item>
+        <item name="malay">Malay</item>
+        <item name="myanmar">Myanmar</item>
+        <item name="khmer">Khmer</item>
+        <item name="german">German</item>
+    </string-array>
+
+    <string-array name="translateTo">
+        <item name="english">English</item>
+        <item name="chinese">Chinese</item>
+        <item name="japanese">Japanese</item>
+        <item name="korean">Korean</item>
+        <item name="malay">Malay</item>
+        <item name="myanmar">Myanmar</item>
+        <item name="khmer">Khmer</item>
+        <item name="german">German</item>
+    </string-array>
+
+    <string name="helloEN">Hello</string>
+    <string name="thanksEN">Thank You</string>
+    <string name="byeEN">Bye bye</string>
+    <string name="welcomeEN">You are welcome</string>
+    <string name="sorryEN">I am sorry</string>
+    <string name="costEN">How much is it?</string>
+    <string name="toiletEN">Where is the toilet?</string>
+    <string name="noUnderstandEN">I do not understand</string>
+    <string name="billEN">Bill, please</string>
+    <string name="placeEN">I want to go to…</string>
+    <string name="englishEN">Do you speak English?</string>
+
+    <string name="helloCHN">你好</string>
+    <string name="thanksCHN">谢谢</string>
+    <string name="byeCHN">再见</string>
+    <string name="welcomeCHN">别客气</string>
+    <string name="sorryCHN">很抱歉</string>
+    <string name="costCHN">多少钱？</string>
+    <string name="toiletCHN">洗手间在哪？</string>
+    <string name="noUnderstandCHN">我听不明白</string>
+    <string name="billCHN">结账</string>
+    <string name="placeCHN">我想去…</string>
+    <string name="englishCHN">你会说英语吗？</string>
+
+    <string name="helloKOR">여보세요</string>
+    <string name="thanksKOR">고맙습니다</string>
+    <string name="byeKOR">안녕히 가세요</string>
+    <string name="welcomeKOR">천만에요</string>
+    <string name="sorryKOR">죄송합니다</string>
+    <string name="costKOR">얼마예요?</string>
+    <string name="toiletKOR">화장실이 어디에 있나요?</string>
+    <string name="noUnderstandKOR">이해하지 못한다.</string>
+    <string name="billKOR">청구서주세요.</string>
+    <string name="placeKOR">…나는 가고 싶어 </string>
+    <string name="englishKOR">영어를 할 줄 아세요?</string>
+
+    <string name="helloJPN">こんにちは</string>
+    <string name="thanksJPN">ありがとうございました</string>
+    <string name="byeJPN">さようなら</string>
+    <string name="welcomeJPN">どういたしまして</string>
+    <string name="sorryJPN">ごめんなさい</string>
+    <string name="costJPN">いくらですか？</string>
+    <string name="toiletJPN">トイレはどこですか？</string>
+    <string name="noUnderstandJPN">わからない</string>
+    <string name="billJPN">お勘定お願いします</string>
+    <string name="placeJPN">行きたい…</string>
+    <string name="englishJPN">英語を話せますか？</string>
+
+    <string name="helloMYN">မင်္ဂလာပါ</string>
+    <string name="thanksMYN">ကျေးဇူးတင်ပါတယ်</string>
+    <string name="byeMYN">နုတ်ဆက်ပါတယ်</string>
+    <string name="welcomeMYN">ရပါတယ်</string>
+    <string name="sorryMYN">တောင်းပန်ပါတယ်</string>
+    <string name="costMYN">ဘယ်လောက်လဲ?</string>
+    <string name="toiletMYN">အိမ်သာဘယ်မှာလဲ?</string>
+    <string name="noUnderstandMYN">နားမလည်ဘူး</string>
+    <string name="billMYN">ကျေးဇူးပြုပြီးကျသင့်ငွေစာရင်းပေးပါ</string>
+    <string name="placeMYN">…သွားချင်တယ်</string>
+    <string name="englishMYN">အဂ်လိပ်လိုပြောတတ်လား?</string>
+
+    <string name="helloMLY">hello</string>
+    <string name="thanksMLY">terima kasih</string>
+    <string name="byeMLY">selamat tinggal</string>
+    <string name="welcomeMLY">sama-sama</string>
+    <string name="sorryMLY">maaf</string>
+    <string name="costMLY">berapa banyak?</string>
+    <string name="toiletMLY">Dimanakah tandas?</string>
+    <string name="noUnderstandMLY">tidak faham</string>
+    <string name="billMLY">bil, tolong</string>
+    <string name="placeMLY">saya mahu pergi ke…</string>
+    <string name="englishMLY">Adakah anda bercakap bahasa Inggeris?</string>
+
+    <string name="thanksKHM">សូមអរគុណ</string>
+    <string name="helloKHM">សួស្តី</string>
+    <string name="byeKHM">លាហើយ</string>
+    <string name="welcomeKHM">មិនបាច់​គួរសម​ទេ</string>
+    <string name="sorryKHM">សុំទោស</string>
+    <string name="costKHM">តើ​វា​មានតម្លៃ​ប៉ុន្មាន?</string>
+    <string name="toiletKHM">តើ​បង្គន់​នៅឯណា?</string>
+    <string name="noUnderstandKHM">កុំយល់</string>
+    <string name="billKHM">សូមផ្ញើវិក័យប័ត្រ</string>
+    <string name="placeKHM">ខ្ញុំ​ចង់​ទៅ…</string>
+    <string name="englishKHM">តើអ្នកនិយាយភាសាអង់គ្លេសទេ?</string>
+
+    <string name="helloGRM">Hallo</string>
+    <string name="thanksGRM">Danke dir</string>
+    <string name="byeGRM">Tschüss</string>
+    <string name="welcomeGRM">Bitte</string>
+    <string name="sorryGRM">Es tut uns leid</string>
+    <string name="costGRM">Wie viel kostet das?</string>
+    <string name="toiletGRM">Wo ist die Toilette?</string>
+    <string name="noUnderstandGRM">verstehe nicht</string>
+    <string name="billGRM">Rechnung bitte</string>
+    <string name="placeGRM">Ich möchte zu …</string>
+    <string name="englishGRM">Sprichst du Englisch?</string>
+
+
+</resources>

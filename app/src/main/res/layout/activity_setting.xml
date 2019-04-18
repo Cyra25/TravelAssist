@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:padding="20dp"
+    android:id="@+id/changeColor"
+    android:orientation="vertical"
+    tools:context=".setting">
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/changeColor" />
+
+    <Button
+        android:id="@+id/whiteBtn"
+        android:layout_width="match_parent"
+        android:background="@color/buttonColor1"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content"
+        android:onClick="whiteBackground"
+        android:text="@string/white" />
+
+    <Button
+        android:id="@+id/blueBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/buttonColor4"
+        android:layout_marginBottom="10dp"
+        android:onClick="blueBackground"
+        android:text="@string/blue" />
+
+    <Button
+        android:id="@+id/greenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/buttonColor3"
+        android:onClick="greenBackground"
+        android:text="@string/green" />
+
+    <Button
+        android:id="@+id/yellowBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/buttonColor2"
+        android:layout_marginBottom="10dp"
+        android:onClick="yellowBackground"
+        android:text="@string/yellow" />
+
+    <Button
+        android:id="@+id/purpleBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/buttonColor5"
+        android:layout_marginBottom="10dp"
+        android:onClick="purpleBackground"
+        android:text="@string/pink" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/toMain"
+        android:onClick="handler2"
+        android:id="@+id/toMain"/>
+</LinearLayout>
