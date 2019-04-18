@@ -119,15 +119,6 @@
             android:text="@string/reset"
             android:id="@+id/reset"/>
 
-        <!--for the audio-->
-        <!--<ImageButton-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="match_parent"-->
-            <!--android:contentDescription="@string/audio_button"-->
-            <!--android:layout_weight="6"-->
-            <!--android:icon="@drawable/audio_icon"/>-->
-
-
     </LinearLayout>
 
 
